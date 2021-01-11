@@ -1,11 +1,13 @@
 - title: Social Good!
   event: Contributed to open source during Hacktoberfest.
   date: October 2020
+  logo: hacktoberfest.png
 
 - title: Quiz App
   event: Made using Flutter framework
   date: April 2020
   page-name: quizapp
+  logo: flutter.svg
 
 # - title: Machine Learning Project
 #   event: MLH Fellowship Explorer Sprint 3
